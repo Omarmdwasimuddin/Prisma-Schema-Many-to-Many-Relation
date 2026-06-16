@@ -59,3 +59,4 @@ model Comment {
 ---
 
 ![schema table relational diagram](https://imgur.com/hDLyPeH.png)
+##### visit---> https://prisma-editor.bahumaish.com/ --->see relational table diagram.
